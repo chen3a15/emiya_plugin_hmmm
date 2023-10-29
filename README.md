@@ -10,7 +10,7 @@ emiya的插件
     </tr>
     <tr>
         <td>功能</td>
-        <td><a href="./功能/复读机.py">复读机</a></td>
+        <td><a href="./插件/功能/复读机.py">复读机</a></td>
         <td>件如其名</td>
     </tr>
 </table>
